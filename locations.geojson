@@ -3,6 +3,7 @@
 "name": "locations",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "fid": 1, "address": "School" }, "geometry": { "type": "Point", "coordinates": [ -3.14869464230211, 55.881572980310992 ] } }
+{ "type": "Feature", "properties": { "fid": 1, "address": "School" }, "geometry": { "type": "Point", "coordinates": [ -3.14869464230211, 55.881572980310992 ] } },
+{ "type": "Feature", "properties": { "fid": null, "address": "27 Polton Road" }, "geometry": { "type": "Point", "coordinates": [ -3.144960079111295, 55.875445098584542 ] } }
 ]
 }
